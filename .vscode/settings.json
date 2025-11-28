@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "xmemory": "cpp",
+        "utility": "cpp",
+        "type_traits": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
