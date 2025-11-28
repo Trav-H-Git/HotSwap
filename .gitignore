@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+
+# Build artifacts
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+out/
+build/
